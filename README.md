@@ -1,3 +1,4 @@
 # CS677-Assignments
-# Assignment 1 : Intro and practice Numpy/Pandas syntax
-# Assignemnt 2 
+- Assignment 1 : Description data analysis
+  What does your data look like? Need to reshape? Merge? Slice? Aggregate?  sorting, slicing, aggregation etc.
+- Assignemnt 2 
